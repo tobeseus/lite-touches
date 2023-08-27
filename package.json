@@ -1,0 +1,25 @@
+{
+  "name": "lite-touches",
+  "version": "0.1.1",
+  "description": "Fun, friendly, and simple CSS library",
+  "main": "LiteTouches.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobeseus/lite-touches.git"
+  },
+  "keywords": [
+    "LiteTouches"
+  ],
+  "author": "Tobeseus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobeseus/lite-touches/issues"
+  },
+  "homepage": "https://github.com/tobeseus/lite-touches#readme",
+  "dependencies": {
+    "lite-touches": "^0.1.0"
+  }
+}
