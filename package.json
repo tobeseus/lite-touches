@@ -1,6 +1,6 @@
 {
-  "name": "lite-touches",
-  "version": "0.1.1",
+  "name": "litetouches",
+  "version": "0.1.0",
   "description": "Fun, friendly, and simple CSS library",
   "main": "LiteTouches.js",
   "scripts": {
@@ -10,16 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/tobeseus/lite-touches.git"
   },
-  "keywords": [
-    "LiteTouches"
-  ],
-  "author": "Tobeseus",
+  "author": "Toby Aguero",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tobeseus/lite-touches/issues"
   },
-  "homepage": "https://github.com/tobeseus/lite-touches#readme",
-  "dependencies": {
-    "lite-touches": "^0.1.0"
-  }
+  "homepage": "https://github.com/tobeseus/lite-touches#readme"
 }
